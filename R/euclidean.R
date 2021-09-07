@@ -17,6 +17,8 @@
 #' euclidean('dog','cat')
 #' }
 #'
+#'For more information on algorithm check \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}
+#'
 euclidean<-function(a,b){
 
   if (!is.numeric(a) | !is.numeric(b)) stop('Wrong input')

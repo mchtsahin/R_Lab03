@@ -24,4 +24,6 @@ euclidean(100,10)
 euclidean('dog','cat')
 }
 
+For more information on algorithm check \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
+
 }
