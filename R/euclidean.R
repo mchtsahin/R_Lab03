@@ -4,6 +4,9 @@
 #' Euclidean Algorithm
 #'
 #' The goal of this algorithm is to find the greatest common divisor of two input (a,b) numbers
+#'
+#' \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
+#'
 #' @param a Must be numeric scalar or integer
 #' @param b Must be numeric scalar or integer
 #'
@@ -17,7 +20,8 @@
 #' euclidean('dog','cat')
 #' }
 #'
-#'For more information on algorithm check \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}
+#'
+#'
 #'
 euclidean<-function(a,b){
 
