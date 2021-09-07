@@ -1,13 +1,11 @@
 Package: lab03
-Title: What the Package Does (One Line, Title Case)
+Title: Euclidean and Dijkstra Algorithms
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Authors@R: c(
+    person(given = "Farid", family = "Musayev", role = c("aut"), email = "farmu437@student.liu.se"),
+    person(given = "Mücahit", family = "Sahin", role = c("cre"), email = "mucsa806@student.liu.se"))
+Description: Package containts two algorithms. Euclidean algorithm finds the greatest common divisor of two numbers.
+    Djikstra algorithm takes a graph and an initial node and calculates the shortest path from the initial node to every other node in the graph.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
