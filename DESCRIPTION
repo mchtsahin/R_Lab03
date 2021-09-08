@@ -3,7 +3,7 @@ Title: Euclidean and Dijkstra Algorithms
 Version: 0.0.0.9000
 Authors@R: c(
     person(given = "Farid", family = "Musayev", role = c("aut"), email = "farmu437@student.liu.se"),
-    person(given = "Mücahit", family = "Sahin", role = c("cre"), email = "mucsa806@student.liu.se"))
+    person(given = "Mücahit", family = "Sahin", role = c("aut"), email = "mucsa806@student.liu.se"))
 Description: Package containts two algorithms. Euclidean algorithm finds the greatest common divisor of two numbers.
     Djikstra algorithm takes a graph and an initial node and calculates the shortest path from the initial node to every other node in the graph.
 License: MIT + file LICENSE
