@@ -15,7 +15,7 @@ euclidean(a, b)
 The greatest common divisor of \code{a} and \code{b}
 }
 \description{
-The goal of this algorithm is to find the greatest common divisor of two input (a,b) numbers
+\code{euclidean} returns the greatest common divisor of two input (a,b) values.
 }
 \details{
 \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
