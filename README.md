@@ -1,4 +1,7 @@
 
+[![Build
+Status](https://app.travis-ci.com/faridmusayev/R_Lab03.svg?branch=master)](https://app.travis-ci.com/faridmusayev/R_Lab03)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # lab03
