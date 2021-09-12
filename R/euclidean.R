@@ -3,7 +3,7 @@
 
 #' Euclidean Algorithm
 #'
-#' The goal of this algorithm is to find the greatest common divisor of two input (a,b) numbers
+#' \code{euclidean} returns the greatest common divisor of two input (a,b) values.
 #'
 #' \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 #'
