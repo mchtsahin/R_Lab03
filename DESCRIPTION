@@ -5,7 +5,7 @@ Authors@R: c(
     person(given = "Farid", family = "Musayev", role = c("cre"), email = "farmu437@student.liu.se"),
     person(given = "Mücahit", family = "Sahin", role = c("aut"), email = "mucsa806@student.liu.se"),
     person(given = "Selen", family = "Karaduman", role = c("aut"), email = "selka266@student.liu.se"))
-Description: This package containts two algorithms. Euclidean algorithm finds the greatest common divisor of two numbers.
+Description: This package contains two algorithms. Euclidean algorithm finds the greatest common divisor of two numbers.
     Djikstra's algorithm takes a graph and an initial node and calculates the shortest path from the initial node to every other node in the graph.
 License: MIT + file LICENSE
 Encoding: UTF-8

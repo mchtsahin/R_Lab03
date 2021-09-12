@@ -9,7 +9,7 @@ Status](https://app.travis-ci.com/faridmusayev/R_Lab03.svg?branch=master)](https
 <!-- badges: start -->
 <!-- badges: end -->
 
-This package containts two algorithms. Euclidean algorithm finds the
+This package contains two algorithms. Euclidean algorithm finds the
 greatest common divisor of two numbers. Djikstra’s algorithm takes a
 graph and an initial node and calculates the shortest path from the
 initial node to every other node in the graph.
