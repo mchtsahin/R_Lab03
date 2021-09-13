@@ -9,9 +9,9 @@
 #'
 #'@author
 #'
-#'- Farid Musayev  gitHub : faridmusayev
-#'- Mucahit Sahin  gitHub : mchtsahin
-#'- Selen Karaduman  gitHub : selenkaraduman
+#'- Farid Musayev  gitHub : faridmusayev liuid:farmu437
+#'- Mucahit Sahin  gitHub : mchtsahin liuid:mucsa806
+#'- Selen Karaduman  gitHub : selenkaraduman liuid:selka266
 #'
 #'@seealso
 #'
