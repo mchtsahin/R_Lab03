@@ -1,5 +1,5 @@
 Package: lab03
-Title: Euclidean and Dijkstra Algorithms
+Title: Euclidean and Dijkstra Algorithms From Lab3
 Version: 0.0.0.9000
 Authors@R: c(
     person(given = "Farid", family = "Musayev", role = c("cre"), email = "farmu437@student.liu.se"),
