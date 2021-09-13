@@ -1,5 +1,5 @@
 Package: lab03
-Title: Euclidean and Dijkstra Algorithms
+Title: Euclidean and Dijkstra Algorithms From Lab3
 Version: 0.0.0.9000
 Authors@R: c(
     person(given = "Farid", family = "Musayev", role = c("cre"), email = "farmu437@student.liu.se"),
@@ -11,7 +11,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
